@@ -6,10 +6,6 @@
 
 Hi, I'm Archit, Open Source developer @ [OpenMined](https://www.openmined.org/), [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#6451655278592000) and Smart India Hackathon 2020 Finalist. I enjoy working on Software Application and Data Science projects.
 
-- 🔭 I’m currently working on [PyZPK](https://github.com/OpenMined/PyZPK), a Python wrapper for open-source Zero Proof Knowledge Library.
-- 🌱 I’m currently learning Zero Knowledge Proofs and Data Science.
-- 👯 I’m looking for new opportunities in Software Engineering and Data Science.
-- 🤔 I’m looking for contributions to the [PyZPK](https://github.com/OpenMined/PyZPK), repository.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: garg4.ag@gmail.com
 - :heart: Open Source
