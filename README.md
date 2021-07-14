@@ -1,14 +1,14 @@
-### Hey 👋🏽, I'm [Archit!](https://gargarchit.me/) 
+### Hey 👋🏽, I'm [Archit!](http://gargarchit.tech/) 
 
 [![Linkedin: garg4](https://img.shields.io/badge/-garg4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garg4/)](https://www.linkedin.com/in/garg4/)
 [![GitHub gargarchit](https://img.shields.io/github/followers/gargarchit?label=follow&style=social)](https://github.com/gargarchit)
-[![My Site](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=https://gargarchit.me/)](https://gargarchit.me/)
+[![My Site](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=http://gargarchit.tech/)](http://gargarchit.tech/)
 
-Hi, I'm Archit, Open Source developer @ [OpenMined](https://www.openmined.org/), [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#6451655278592000) and Smart India Hackathon 2020 Finalist. I enjoy working on Software Application and Data Science projects.
+Hi, I'm Archit, graduated in Computer Science and Engineering from National Institute Technology Goa, Open Source developer @ [OpenMined](https://www.openmined.org/), [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#6451655278592000) during summer 2020 and Smart India Hackathon 2020 Finalist. I enjoy working on Software Application and Data Science problems.
 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: garg4.ag@gmail.com
-- :heart: Open Source
+- :heart: Maths and Programming
 
 **Languages and Tools:** 
 
