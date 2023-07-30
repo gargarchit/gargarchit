@@ -2,20 +2,8 @@
 
 [![Linkedin: garg4](https://img.shields.io/badge/-garg4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/garg4/)](https://www.linkedin.com/in/garg4/)
 [![GitHub gargarchit](https://img.shields.io/github/followers/gargarchit?label=follow&style=social)](https://github.com/gargarchit)
-[![My Site](https://img.shields.io/badge/-MySite-black?style=flat-squarelink=http://gargarchit.tech/)](http://gargarchit.tech/)
 
-Hi, I'm Archit, graduated in Computer Science and Engineering from National Institute Technology Goa, Open Source developer @ [OpenMined](https://www.openmined.org/), [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#6451655278592000) during summer 2020 and Smart India Hackathon 2020 Finalist. I enjoy working on Software Application and Data Science problems.
+I am a Senior Software Engineer at GroMo. My academic background includes graduating in Computer Science and Engineering from the National Institute of Technology, Goa. Additionally, I have served as a Technical Mentor at Udacity, providing valuable guidance to numerous students. During the summer of 2020, I had the opportunity to contribute as an Open Source developer for OpenMined during Google Summer of Code. Moreover, I was a finalist in the Smart India Hackathon 2020. My passion lies in tackling challenges related to Software Applications.
 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: garg4.ag@gmail.com
-- :heart: Maths and Programming
-
-**Languages and Tools:** 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Archit's github stats](https://github-readme-stats.vercel.app/api/?username=gargarchit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
